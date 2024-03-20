@@ -1,0 +1,97 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0; 
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+}
+
+nav a {
+  color: aqua;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+main {
+  padding: 20px;
+}
+
+main p {
+  line-height: 1.5;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.work-title {
+  text-align: center;
+}
+
+.main-color {
+  color: #333;
+}
+
+.logo {
+  font-size: 32px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.design-column {
+  background-color: lightgray;
+  height: 200px;
+  margin: 20px 0;
+}
+
+.image-wrapper {
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+  padding: 5px;
+}
+
+.weightlifting {
+  overflow: hidden;
+}
+
+.weightlifting img {
+  width: 100%;
+}
+
+.about-me, #resume, #contact-me {
+  background-color: #fff; 
+  border: 1px solid #ccc; 
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 5px; 
+}
+
+.Coding img {
+  width: 80%; 
+}
+
+
+.about-me {
+  background-color: #f9f9f9; 
+}
+
+#resume {
+  background-color: #e6f7ff; 
+}
